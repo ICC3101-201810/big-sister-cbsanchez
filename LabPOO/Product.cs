@@ -32,6 +32,9 @@ namespace LabPOO
             return false;
         }
 
+    
+
+
         public string Name { get => name; }
         public int Stock { get => stock; }
         public int Price { get => price; }
